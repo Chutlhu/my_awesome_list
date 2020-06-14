@@ -3,27 +3,31 @@ My awesome lists
 
 
 # Music
-## New Wave:
-- Plasticost
+My **not sorted** most-played album list
 
-## Electronic
-### IDM
+- East Rodeo, **full discography**.
+- _Shvat_, Tatran.
 - _Rossz Csillag Alatt Született_, Venerian Sanare, Planet Mu, 2005
 - _Detrimentalist_, Venetial Snares, Planet Mu, 2008
 - _Traditional Synthesizer Music_, Venetial Snares, Planet Mu, 2016.
-- _Drukqs_, Aphex Twin, Warp, 2001.
 - _Syro_, Aphex Twin, Warp, 2014.
-
-## METAL
-Soft:
 - _Imagination from the Otherside_, Blind Guardian.
 - _Polaris_, Tesseract.
-
-Extreme:
 - _The Aura_, Beyond Creating.
 - _In Harmonia Universalis_, Solefald.
 - _Board up the House_, Genghis Tron.
-
+- _Sinuoid Savage_, Igorrr
+- _All is violent, All is Bright_, God is an Astronaut
+- _Dark Eyes_, Half Moon Run
+- _DIE_, Iosonouncane
+- Tool **full discography**
+- _Veritá Supposte_, Caparezza
+- __, Devil Driver
+- _Addicted_, Devin Townsend
+- Radiohead, **full discography**
+- Opeth, **full discography**
+- _Diabolis Interim_, Dark Funeral
+- _City_, Strappin Yung Lad
 
 # Books
 - _Le cosmicomiche_, Italo Calvino.
@@ -40,3 +44,4 @@ Extreme:
 
 # Grandma suggestions
 - The butter the better
+- pelati, non passata
