@@ -3,7 +3,7 @@ My awesome lists
 
 
 # Music
-My **not sorted** most-played album list
+My **not sorted** most-played album list ever
 
 - East Rodeo, **full discography**.
 - _Shvat_, Tatran.
@@ -27,7 +27,12 @@ My **not sorted** most-played album list
 - Radiohead, **full discography**
 - Opeth, **full discography**
 - _Diabolis Interim_, Dark Funeral
-- _City_, Strappin Yung Lad
+- _City_, Strappin Young Lad
+
+most-played recently sorted as time-based stack
+
+1. *Beastland*, Author & Punisher
+
 
 # Books
 - _Le cosmicomiche_, Italo Calvino.
