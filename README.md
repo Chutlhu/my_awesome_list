@@ -50,3 +50,8 @@ most-played recently sorted as time-based stack
 # Grandma suggestions
 - The butter the better
 - pelati, non passata
+
+# Courses and Tutorial
+- [Sparsity](https://gitlab.inria.fr/cherzet/cours-parcimonie-insa) @ INSA
+- [MIR with Maynard Muller](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
+- [MIR with Justin Salomon](https://source-separation.github.io/tutorial)
