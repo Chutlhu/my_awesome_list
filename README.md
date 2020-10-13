@@ -48,8 +48,9 @@ most-played recently sorted as time-based stack
 - Pasta Sarde Barba di Finocchio Pinoli Uvetta
 
 # Grandma suggestions
-- The butter the better
-- pelati, non passata
+- The butter, the better
+- Pelati, non passata
+- Il sapore si passa al burro, il burro avvolge il resto
 
 # Courses and Tutorial
 - [Sparsity](https://gitlab.inria.fr/cherzet/cours-parcimonie-insa) @ INSA
