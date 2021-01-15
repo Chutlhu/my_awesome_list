@@ -33,6 +33,13 @@ most-played recently sorted as time-based stack
 
 1. *Beastland*, Author & Punisher
 
+## Music Reviews
+- [sputnikmusic](https://www.sputnikmusic.com/genre/1/metal-/)
+- [https://scaruffi.com/](https://scaruffi.com/)
+
+# Illuminati
+- [P. Scaruffi](https://scaruffi.com/)
+
 
 # Books
 - _Le cosmicomiche_, Italo Calvino.
