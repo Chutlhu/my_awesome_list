@@ -39,7 +39,7 @@ most-played recently sorted as time-based stack
 
 # Illuminati
 - [P. Scaruffi](https://scaruffi.com/)
-
+- E. Tufte
 
 # Books
 - _Le cosmicomiche_, Italo Calvino.
