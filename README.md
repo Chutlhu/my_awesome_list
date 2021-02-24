@@ -33,7 +33,23 @@ most-played recently sorted as time-based stack
 
 1. *Beastland*, Author & Punisher
 
-## Music Reviews
+### Essential Classical Jazz Album
+Thank you Dodo for this list
+- Duke Ellington - Blues in Orbit
+- Miles Davis - Kind of Blue
+- Thelonius Monk - Monk's Music
+- John Coltrane - A Love Supreme
+- Wayne Shorter - Juju
+- Miles - In a Silent Way
+- Bill Evans - Explorations
+- Mingus - Pithecantropus Erectus
+
+Appendix for contemporary jazz:
+- Chris Thile e Mehldau - s/t
+- di Eric Dolphy - Bonus track Out To Lunch
+
+
+### Music Reviews
 - [sputnikmusic](https://www.sputnikmusic.com/genre/1/metal-/)
 - [https://scaruffi.com/](https://scaruffi.com/)
 
