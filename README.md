@@ -50,6 +50,7 @@ Appendix for contemporary jazz:
 
 
 ### Music Reviews
+- [new noise magazine](https://newnoisemagazine.com/)
 - [sputnikmusic](https://www.sputnikmusic.com/genre/1/metal-/)
 - [https://scaruffi.com/](https://scaruffi.com/)
 
